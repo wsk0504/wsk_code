@@ -4,7 +4,7 @@ filename = '20240412_222753.csv';
 
 % CSV 파일 읽기 (헤더 포함)
 data = readtable(filename);
-
+// sedgfsdfgsdfgsdfg
 
 % Time, PWM, Weight 데이터 추출
 time = data.Time;
